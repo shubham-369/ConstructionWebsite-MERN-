@@ -26,6 +26,7 @@ The Construction Website is designed to present our construction services and pr
 ## Installation
 
 To run this project locally, follow these steps:
+in case frontend part is not installed, it's on another repository names reactappConstructionWebsite
 
 1. Clone the repository:
 - git clone https://github.com/shubham-369/ConstructionWebsite-MERN-.git
